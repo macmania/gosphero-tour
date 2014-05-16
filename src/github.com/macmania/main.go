@@ -1,3 +1,7 @@
+/**
+* Starter kit on using go to power up a gosphero
+*/
+
 package main
 
 import (
